@@ -19,8 +19,7 @@ imporve your typing skill, check your speed and imporve it.
     git clone https://github.com/Fazlullahmamond/Pashto-Typing.git
     ```
 
-
-check demo [https://raw.githack.com/fazlullahmamond/Pashto-Typing/main/pashtoTyping.html]
+<a href="https://raw.githack.com/fazlullahmamond/Pashto-Typing/main/pashtoTyping.html"> Check Demo </a>
 
 
 ## License
