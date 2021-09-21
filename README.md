@@ -1,7 +1,9 @@
-# Pashto-Typing
+# Pashto Typing
 test your Pashto typing speed, you will also learn how to type with Pashto keyboard.
 imporve your typing skill, check your speed and imporve it.
+
 ## (Note that you should change your keyboard language into Pashto)
+
 ![Calculator Screenshot](1.png)
 
 ## Features
@@ -9,6 +11,7 @@ imporve your typing skill, check your speed and imporve it.
 - check you typing speed in Pashto language.
 - imporve your Pashto typing speed.
 - learn how to type in Pashto.
+- 
 ![Calculator Screenshot](2.png)
 
 - Get the code:
