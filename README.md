@@ -5,7 +5,7 @@ imporve your typing skill, check your speed and imporve it.
 ![Calculator Screenshot](1.png)
 
 ## Features
-- how many words per hour you can type in Pashto language?
+- how many words per minute you can type in Pashto language?
 - check you typing speed in Pashto language.
 - imporve your Pashto typing speed.
 - learn how to type in Pashto.
