@@ -1,6 +1,5 @@
 # Pashto-Typing
-web base application use to test your Pashto typing.
-you can also learn how to type with Pashto keyboard.
+test your Pashto typing speed, you will also learn how to type with Pashto keyboard.
 imporve your typing skill, check your speed and imporve it.
 ## (Note that you should change your keyboard language into Pashto)
 ![Calculator Screenshot](1.png)
