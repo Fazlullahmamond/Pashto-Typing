@@ -17,7 +17,7 @@ imporve your typing skill, check your speed and imporve it.
     ```
 
 
-check demo [Link to Pashto Typing Demo] (https://raw.githack.com/fazlullahmamond/Pashto-Typing/main/pashtoTyping.html)
+check demo [https://raw.githack.com/fazlullahmamond/Pashto-Typing/main/pashtoTyping.html]
 
 
 ## License
